@@ -1,4 +1,4 @@
-package org.extremecoder;
+package com.extremecoder;
 
 import java.util.Properties;
 

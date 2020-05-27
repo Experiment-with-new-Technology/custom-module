@@ -1,8 +1,8 @@
-package org.extremecoder;
+package com.extremecoder;
 
 import java.time.LocalDateTime;
 
-import static org.extremecoder.GreeterConfigParams.*;
+import static com.extremecoder.GreeterConfigParams.*;
 
 public class Greeter {
 
