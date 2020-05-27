@@ -1,8 +1,8 @@
-package com.baeldung.greeter.library;
-
-import static com.baeldung.greeter.library.GreeterConfigParams.*;
+package org.extremecoder;
 
 import java.time.LocalDateTime;
+
+import static org.extremecoder.GreeterConfigParams.*;
 
 public class Greeter {
 
